@@ -1,0 +1,20 @@
+1) index.html:
+a) vista desktop: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a3afcac31
+b) vista mobile: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/ac0b5922a
+
+2) productos.hhtml:
+a) vista desktop: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a9ab734d0
+b) vista mobile: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a3ee7d0c9
+
+3) promociones.html:
+a) vista desktop: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a7124cc24
+b) vista mobile: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/abecb3f0a
+
+4) ubicacion.html:
+a) vista desktop: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/ac036b0cf
+b) vista mobile: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a4a4580ed
+
+5) contacto.html:
+a) vista desktop: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/ae412066e
+b) vista mobile: https://app.moqups.com/yRjDI2twNAvOk2WyROSnSw6U1i6AIZI1/view/page/a249e6b6f
+
