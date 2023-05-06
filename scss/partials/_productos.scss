@@ -1,0 +1,61 @@
+
+.camisetas, .shorts, .medias, .otros {
+    margin: 10px 20px;
+    padding: 15px;
+    width: 250px;
+    height: 425px;
+    border: solid gray;
+    max-width: 100%;
+    display: inline-block;
+    position: sticky;
+}
+
+.card-img {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 0 auto;
+    align-content: center;
+}
+
+.precios{
+    display: inline;
+    margin-right: 50px;
+    }
+
+.camisetas, .shorts, .medias, .otros{
+    display: none;
+}
+
+#camisetas:checked ~ .padre-cards .camisetas,
+#shorts:checked ~ .padre-cards .shorts,
+#medias:checked ~ .padre-cards .medias,
+#otros:checked ~ .padre-cards .otros{
+    display: inline-block;
+}
+
+#todos:checked ~ .padre-cards .camisetas,
+#todos:checked ~ .padre-cards .shorts,
+#todos:checked ~ .padre-cards .medias,
+#todos:checked ~ .padre-cards .otros{
+    display: inline-block;
+}
+
+#h6-filtro{
+text-decoration: underline;
+}
+
+.container-opciones{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.container-opciones label{
+    cursor: pointer;
+    padding: 8px;
+}
+
+#camisetas, #shorts, #medias, #otros, #todos{
+    display: none;
+}
